@@ -1,11 +1,11 @@
 # Learning. Breaking. Fixing.
 
 Welcome to my GitHub profile where I explore, create, and innovate in code.  
-I am always learning, breaking things down, and fixing them.
+I am always learning, breaking things down, fixing them.
 
 <br>
 
-[![Visit My Website](https://cdn.discordapp.com/attachments/972533899462836334/1226954028693327962/fa8bab291d3e6866db2e8d049bd8f453.gif?ex=67ace0fc&is=67ab8f7c&hm=e2ed14edb9562042c91db770cc9a1d67602120ae47ac295f52fa2651a51178f5&)](https://e-z.bio/typex1337)
+[![Visit My Website](https://cdn.discordapp.com/attachments/972533899462836334/1223773591535882320/AB5D250A-6A97-4279-9507-5C7FE31DBD9C.gif?ex=67ac83b8&is=67ab3238&hm=f45b58dba90b7be89f1feb6526679434ff31c8d681ad21ce542512e837c48059&)](https://e-z.bio/typex1337)
 
 <br>
 
