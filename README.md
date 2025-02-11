@@ -14,7 +14,7 @@ I am always learning, breaking things down, fixing them.
 - 🔧 **Breaking code**  
 - 🚀 **Fixing Code**  
 
-[Website](https://e-z.bio/typex1337)
+[Website](https://e-z.bio/typex)
 
 ### Tools I Use:
 ![Visual Studio 2022](https://github.com/typex1337/typex1337/blob/main/vs202211.png?raw=true)
