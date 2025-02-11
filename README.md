@@ -15,3 +15,10 @@ I am always learning, breaking things down, and fixing them.
 - 🚀 **Fixing Code**  
 
 [Website](https://e-z.bio/typex1337)
+
+### Tools I Use:
+![Visual Studio 2022](https://upload.wikimedia.org/wikipedia/commons/e/e1/Visual_Studio_2022_Logo.svg)
+- 💻 **Visual Studio 2022** – The IDE I use for most of my projects.
+
+![VSCode](https://upload.wikimedia.org/wikipedia/commons/a/a7/Visual_Studio_Code_1.35_icon.svg)
+- 🖥️ **Visual Studio Code** – My go-to code editor for lightweight projects and web development.
