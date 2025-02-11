@@ -17,8 +17,8 @@ I am always learning, breaking things down, and fixing them.
 [Website](https://e-z.bio/typex1337)
 
 ### Tools I Use:
-![Visual Studio 2022]((https://github.com/typex1337/typex1337/blob/main/vs2022.png?raw=true))
+![Visual Studio 2022](https://github.com/typex1337/typex1337/blob/main/vs2022.png?raw=true)
 - 💻 **Visual Studio 2022** – The IDE I use for most of my projects.
 
-![VSCode Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Visual_Studio_Code_1.35_icon.svg)
+![VSCode](https://github.com/typex1337/typex1337/blob/main/vscode.png?raw=true)
 - 🖥️ **Visual Studio Code** – My go-to code editor for lightweight projects and web development.
