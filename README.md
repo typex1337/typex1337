@@ -20,5 +20,5 @@ I am always learning, breaking things down, and fixing them.
 ![Visual Studio 2022](https://upload.wikimedia.org/wikipedia/commons/e/e1/Visual_Studio_2022_Logo.svg)
 - 💻 **Visual Studio 2022** – The IDE I use for most of my projects.
 
-![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/a/a7/Visual_Studio_Code_1.35_icon.svg)
+![VSCode Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Visual_Studio_Code_1.35_icon.svg)
 - 🖥️ **Visual Studio Code** – My go-to code editor for lightweight projects and web development.
