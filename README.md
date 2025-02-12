@@ -1,7 +1,7 @@
 # Learning. Breaking. Fixing.
 
 Welcome to my GitHub profile where I explore, create, and innovate in code.  
-I am always learning, breaking things down, fixing them.
+I am always learning, breaking things, fixing them.
 
 <br>
 
