@@ -1,1 +1,1 @@
-Just like that 💸
+Money always changing people.
