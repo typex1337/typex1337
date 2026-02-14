@@ -1,3 +1,3 @@
 <div align="center">
-<img src="https://github.com/typex1337/typex1337/blob/main/me.webp" />
+<img src="https://i.pinimg.com/736x/f1/6e/9b/f16e9bb78bdb50867f87fd97b586b851.jpg" />
 </div>
