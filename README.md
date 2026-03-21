@@ -1,3 +1,3 @@
 <div align="center">
-<img src="danyslicer.gif" />
+<img src="xd.jpg" />
 </div>
